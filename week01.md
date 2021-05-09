@@ -1,4 +1,4 @@
-# Week 1 - Zach's Journey into Grid
+# Week 1 - Zach's Journey into the Grid
 
 My first week at Digital Crafts has been nothing short of awesome. I came into this class with zero previous coding knowledge and was pretty nervous on how things would go. I have already experienced the highs of seeing your code succeed, and the lows of spending countless hours of not understanding what on earth I've done wrong. The week of pre-class work I completed did help me better understand certain terms and navigation, and I am very thankful to have spent so much time memorizing and researching the information they gave us. I say that, because this first week of class was definitely an information overload. Although it was a lot, I can confidently say I have never been so passionate and determined to learn and succeed in my life! 
 
