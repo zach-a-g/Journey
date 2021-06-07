@@ -1,0 +1,9 @@
+# Week 5 of Coding Bootcamp
+
+## Previous Group Projects
+
+This upcoming week we will be introduced to our next class project that will be dealing with front end development. I am excited to begin, but also slightly nervous on how things may go. I have had plenty of experiences in the work place that deal with group projects, but a few of my past projects have not gone according to plan. My last one in particular was something I hope does not repeat itself.
+
+To make a long story short, I was a project manager of a group of 12 people and we were tasked with brainstorming, researching/developing and implementing new facility enhancements for our property. Of the 12 people, only 6 regularly showed up, and only 3 of them actually participated in coming up with ideas and researching solutions. I did my best to stress the importance of doing our part because it would be presented to the president of our organization, but I ended up taking on most of the work myself. Things were going "OK" until our president decided to step down and his replacement reallocated our funding to another project. This put our group back at square one, and I essentially lost all group motivation and communication (our organization was going through a lot!). In the end, we managed to put together a respectable list of cost friendly facility enhancements that I am sure wont be acted on, or looked at, until next year. 
+
+The biggest struggle I believe I had with this project was the lack of responsiveness and communication I got from my group members. My first group project in DigitCrafts was a breath of fresh air in that everyone did an awesome job of communicating and doing their part! I am encouraged to think that it will be the same for our upcoming project, and I will be just as proud of it as I was for my Python project!
